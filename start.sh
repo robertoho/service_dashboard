@@ -42,7 +42,7 @@ fi
 
 # Start the application
 echo -e "${BLUE}Starting the Services Dashboard...${NC}"
-cd "$FRONTEND_DIR" && npm run dev:all
+cd "$FRONTEND_DIR" && npm run dev:all --host
 
 # Exit message (this will only execute if npm run dev:all is terminated)
 echo -e "${YELLOW}Services Dashboard has been stopped.${NC}" 
