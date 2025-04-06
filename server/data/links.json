@@ -3,10 +3,10 @@
     {
       "id": "f5bc42fb-d01e-412b-b8e5-a582d9e79c1a",
       "name": "Immich",
-      "url": "http://172.28.28.9:2283",
+      "url": "http://casa.amimodo.pl:2283",
       "description": "",
       "createdAt": 1743942002482,
-      "updatedAt": 1743942002482
+      "updatedAt": 1743943471374
     },
     {
       "id": "caebedc7-8444-4b22-a731-bcd4c34d3a8b",
@@ -15,6 +15,22 @@
       "description": "",
       "createdAt": 1743942334817,
       "updatedAt": 1743942334817
+    },
+    {
+      "id": "1f4148eb-c0f7-4cfb-88e4-a28faf913372",
+      "name": "WOL",
+      "url": "http://casa.amimodo.pl:5000/wol",
+      "description": "",
+      "createdAt": 1743943462423,
+      "updatedAt": 1743943462423
+    },
+    {
+      "id": "b03e3925-b7b6-43b3-98ee-5ed4a5ee1948",
+      "name": "Rozliczenia Internetowe",
+      "url": "http://casa.amimodo.pl:28000",
+      "description": "",
+      "createdAt": 1743945371006,
+      "updatedAt": 1743945383413
     }
   ]
 }
